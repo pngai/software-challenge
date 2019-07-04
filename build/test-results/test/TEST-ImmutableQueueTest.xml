@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ImmutableQueueTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-07-04T14:34:09" hostname="/0:0:0:0:0:0:0:1%lo" time="0.001">
+  <properties/>
+  <testcase name="enQueue" classname="ImmutableQueueTest" time="0.0"/>
+  <testcase name="head" classname="ImmutableQueueTest" time="0.0"/>
+  <testcase name="enqueue_then_dequeue" classname="ImmutableQueueTest" time="0.0"/>
+  <testcase name="immutability" classname="ImmutableQueueTest" time="0.0"/>
+  <testcase name="deQueue" classname="ImmutableQueueTest" time="0.0"/>
+  <testcase name="isEmpty" classname="ImmutableQueueTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ImmutableStackTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-07-04T14:34:09" hostname="/0:0:0:0:0:0:0:1%lo" time="0.004">
+  <properties/>
+  <testcase name="add_then_pop" classname="ImmutableStackTest" time="0.003"/>
+  <testcase name="pop" classname="ImmutableStackTest" time="0.0"/>
+  <testcase name="peek" classname="ImmutableStackTest" time="0.0"/>
+  <testcase name="push" classname="ImmutableStackTest" time="0.001"/>
+  <testcase name="isEmpty" classname="ImmutableStackTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
